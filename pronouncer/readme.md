@@ -1,0 +1,1 @@
+## Reads the text typed.
